@@ -1,0 +1,6 @@
+c:\users\captain_z\documents\visual studio 2015\Projects\pr2\pr2\bin\Debug\pr2.exe.config
+c:\users\captain_z\documents\visual studio 2015\Projects\pr2\pr2\bin\Debug\pr2.exe
+c:\users\captain_z\documents\visual studio 2015\Projects\pr2\pr2\bin\Debug\pr2.pdb
+c:\users\captain_z\documents\visual studio 2015\Projects\pr2\pr2\obj\Debug\pr2.csprojResolveAssemblyReference.cache
+c:\users\captain_z\documents\visual studio 2015\Projects\pr2\pr2\obj\Debug\pr2.exe
+c:\users\captain_z\documents\visual studio 2015\Projects\pr2\pr2\obj\Debug\pr2.pdb
